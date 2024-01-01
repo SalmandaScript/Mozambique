@@ -85,6 +85,16 @@ color: "teal"
 });
 });
 
+//previous page 
+function morocco(){
+open("https://salmandascript.github.io/Morocco/Morocco.html");
+}
+
+//next page 
+function namibia(){
+open("https://salmandascript.github.io/Namibia/Namibia.html");
+}
+
 //quizz questions code 
 function checkAnswer()
   {
